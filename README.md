@@ -21,6 +21,6 @@ npm run start
 ```
 如果成功會看到
 ```
-Express server is running on http://localhost:3000
+Express server is running on http://localhost:4000
 ```
 可至 http://localhost:4000 查看
